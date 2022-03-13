@@ -1,0 +1,4 @@
+Employee   -   Sabbir
+Department -   Software Development
+Expreience -   2 years
+Expertise: Fintech , Video sharing platform , BPO
